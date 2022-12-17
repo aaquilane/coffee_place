@@ -9,7 +9,7 @@ function HeaderApp(){
             <nav class="navbar header-container">
                 {/* <div class="container-fluid "> */}
                     <a class="navbar-brand" href="#">
-                    { <img src="./images/logocoffee.png"  alt="" width="60" height="60" class="d-inline-block align-text-top"></img> }
+                    { <img src="./images/logocoffee.png"  alt="" width="50" height="50" class="d-inline-block align-text-top"></img> }
                     </a>
                     <h2 class="header-container">Coffee Place</h2>
 

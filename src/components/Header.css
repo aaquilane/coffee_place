@@ -1,6 +1,9 @@
 .header-container{
     display: flex; 
+    font-weight: bold;
     justify-content: flex-start;  
-    background: #eeba0b;
+    /* background: #fed8b1;  */
+    background:linear-gradient(#d99a6c,#fed8b1 );
+
     padding: 7px;
   }

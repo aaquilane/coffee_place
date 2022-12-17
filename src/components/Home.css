@@ -1,5 +1,6 @@
 .home-container{
     display: flex; 
     /* justify-content: flex-start;   */
+    background-color: #fed8b1;
     padding: 10px; 
   }
